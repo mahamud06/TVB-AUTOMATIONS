@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.1",
+  "versionCode": 4,
+  "versionName": "1.2",
   "apkUrl": "https://raw.githubusercontent.com/mahamud06/TVB-AUTOMATIONS/main/TVB%20Updates.apk",
-  "changelog": "Bug fixes and improvements"
+  "changelog": "• Products Showcase page with date picker, image thumbnails, color dots, categories, partner info, QA status, favorites, and text filtering\n• Admin agent selector — person icon opens dialog to pick which agent's products to view\n• Agent name shown as subtitle under Products Showcase title\n• QA status dropdown for admin — select from predefined options and Update button saves to sheet\n• Loading spinner during QA update, auto-reload after update\n• Mistake products sorted to top with red card background\n• Tag chips (column G) displayed inline in top row as green rounded chips\n• Product deduplication by link — duplicate links filtered on load\n• Delux DLC hourly chart icon — bar chart showing product posting by hour (6AM-9PM)\n• Auto QC icon — runs mother vs child category matching rules, shows report dialog with mistakes\n• Delux DLC gold banner highlighting premium features\n• Products fetched from agent's personal sheet with date-named tabs"
 }
